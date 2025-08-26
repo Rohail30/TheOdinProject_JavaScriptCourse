@@ -22,3 +22,5 @@ function Book(title, author, pages, read) {
 
 const book1 = new Book('The Hobbit by J.R.R', 'Tolkien', '295', 'not read');
 book1.info();
+
+Object.prototype.hasOwnProperty('valueOf');
