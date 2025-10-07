@@ -1,7 +1,3 @@
-Here’s a **short, simple summary** of the whole lesson 👇
-
----
-
 ### 🧠 **1. Scope**
 
 Scope defines **where variables can be accessed**.
@@ -142,6 +138,4 @@ Example: `calculator.add()` vs having many global `add()` functions.
 | Module/IIFE   | One-time factories            | `calculator.add()`   |
 | Encapsulation | Hide + organize code          | Prevent name clashes |
 
----
 
-Would you like me to turn this into a **1-page visual summary (like a cheat sheet)**?
